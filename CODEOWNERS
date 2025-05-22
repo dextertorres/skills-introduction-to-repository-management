@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @dextertorres
+/src/backend/database.py      @dextertorres
+/src/backend/routers/auth.py  @dextertorres
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @dextertorres
